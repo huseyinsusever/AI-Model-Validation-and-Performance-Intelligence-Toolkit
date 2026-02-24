@@ -45,3 +45,7 @@ The final benchmark of the system’s predictive power ($R^2 = 0.66$), demonstra
 1. **Clone the repository:**
    ```bash
    git clone [https://github.com/huseyinsusever/AI-Model-Validation-Toolkit.git](https://github.com/huseyinsusever/AI-Model-Validation-Toolkit.git)
+2.Install dependencies:
+  pip install -r requirements.txt
+3.Run the Toolkit:
+ Open Untitled109.ipynb and execute the cells to generate fresh quality reviews and performance metrics.   
